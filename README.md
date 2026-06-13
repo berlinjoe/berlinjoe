@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Cross-functional%20Collaboration-333?style=flat-square&logo=cross-functionalcollaboration&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Technical%20Expertise-333?style=flat-square&logo=technicalexpertise&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Problem-solving-333?style=flat-square&logo=problem-solving&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Critical%20Thinking-333?style=flat-square&logo=criticalthinking&logoColor=white"/>
