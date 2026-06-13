@@ -11,15 +11,19 @@
 <img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Technical%20Expertise-333?style=flat-square&logo=technicalexpertise&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Critical%20Thinking-333?style=flat-square&logo=criticalthinking&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CAN-333?style=flat-square&logo=can&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MODBUS-333?style=flat-square&logo=modbus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-TCP%2FIP-333?style=flat-square&logo=tcp/ip&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RTOS-333?style=flat-square&logo=rtos&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ThreadX-333?style=flat-square&logo=threadx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RTXC-333?style=flat-square&logo=rtxc&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-EmbOS-333?style=flat-square&logo=embos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-333?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firmware%20Development-333?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Critical%20Thinking-333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Technical%20Leadership-333?style=flat-square"/>
+<img src="https://img.shields.io/badge/CAN%20Bus-333?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODBUS-333?style=flat-square"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-333?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/RTOS-333?style=flat-square"/>
+<img src="https://img.shields.io/badge/ThreadX-333?style=flat-square"/>
+<img src="https://img.shields.io/badge/embOS-333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARM-333?style=flat-square&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-333?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Yocto-333?style=flat-square&logo=yocto&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat-square&logo=raspberrypi&logoColor=white"/>
   </p>
@@ -42,6 +46,23 @@
 ## 📊 GitHub Analytics
 
 ![Languages](https://your-stats.vercel.app/api/top-langs/?username=berlinjoe&layout=compact&count_private=true)
+
+---
+
+### 🛠️ Core Expertise
+
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-333?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Firmware Development](https://img.shields.io/badge/Firmware%20Development-333?style=flat-square&logo=c&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-333?style=flat-square&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-333?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN%20Bus-333?style=flat-square)
+![Modbus](https://img.shields.io/badge/Modbus-333?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-333?style=flat-square&logo=wireshark&logoColor=white)
+![ThreadX](https://img.shields.io/badge/ThreadX-333?style=flat-square)
+![NetX%20Duo](https://img.shields.io/badge/NetX%20Duo-333?style=flat-square)
+![FileX](https://img.shields.io/badge/FileX-333?style=flat-square)
+![GUIX](https://img.shields.io/badge/GUIX-333?style=flat-square)
 
 ---
 ## 📫 Contact
