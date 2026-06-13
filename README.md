@@ -41,11 +41,7 @@
 
 ## 📊 GitHub Analytics
 
-![Stats](https://your-stats.vercel.app/api?username=berlinjoe&show_icons=true&count_private=true)
-
 ![Languages](https://your-stats.vercel.app/api/top-langs/?username=berlinjoe&layout=compact&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=berlinjoe)
 
 ---
 ## 📫 Contact
