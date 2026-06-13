@@ -3,29 +3,20 @@
   <p align="right">
 <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/CAN_Bus-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Yocto-333333?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ThreadX-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/embOS-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAN%20Bus-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODBUS-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-333?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firmware%20Development-333?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Critical%20Thinking-333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Technical%20Leadership-333?style=flat-square"/>
-<img src="https://img.shields.io/badge/CAN%20Bus-333?style=flat-square"/>
-<img src="https://img.shields.io/badge/MODBUS-333?style=flat-square"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-333?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/RTOS-333?style=flat-square"/>
-<img src="https://img.shields.io/badge/ThreadX-333?style=flat-square"/>
-<img src="https://img.shields.io/badge/embOS-333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/ARM-333?style=flat-square&logo=arm&logoColor=white"/>
-<img src="https://img.shields.io/badge/STM32-333?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Yocto-333?style=flat-square&logo=yocto&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Raspberry%20Pi-333?style=flat-square&logo=raspberrypi&logoColor=white"/>
   </p>
 </p>
 
