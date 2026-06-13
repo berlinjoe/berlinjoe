@@ -31,7 +31,7 @@
 
 ## 👋 About Me
 
-🧑‍💻 I'm **Berlin Vince Joe V S**, Firmware, Principal Project Design Leader.<br/>
+🧑‍💻 I'm **Berlin Joe V S**, Firmware, Senior Engineer.<br/>
 💼 Based in **Bengaluru, India**, working at **Schneider Electric India Pvt Ltd**.<br/>
 🌱 Currently learning: **Advanced Embedded System Design**<br/>
 💬 Ask me about: **Firmware development, Embedded systems design, IoT applications**<br/>
