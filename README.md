@@ -1,8 +1,16 @@
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=berlinjoe&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark"/>
   <p align="right">
-    <img src="https://img.shields.io/badge/-Firmware%20Development-333?style=flat-square&logo=firmwaredevelopment&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Embedded%20Systems-333?style=flat-square&logo=embeddedsystems&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAN_Bus-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ThreadX-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Cross-functional%20Collaboration-333?style=flat-square&logo=cross-functionalcollaboration&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Technical%20Expertise-333?style=flat-square&logo=technicalexpertise&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Problem-solving-333?style=flat-square&logo=problem-solving&logoColor=white"/>
