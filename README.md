@@ -115,11 +115,6 @@
 | Project | Description |
 |----------|-------------|
 | 🤖 AI Wellness Overlay | Desktop wellness assistant |
-| ⚙️ Embedded AI Agent | Local LLM + RAG |
-| 📱 GST Billing System | Android POS application |
-| 🏠 Smart Home | IoT Automation |
-| 💧 Water Flow Controller | Embedded IoT Project |
-| 🔌 Breaker IO Module | Industrial Firmware |
 
 ---
 
