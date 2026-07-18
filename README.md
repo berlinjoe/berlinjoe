@@ -123,40 +123,6 @@
 
 ---
 
-# 🌱 Currently Learning
-
-- Embedded AI
-- Zephyr RTOS
-- Rust
-- Embedded Linux
-- Yocto
-- RISC-V
-- FPGA Design
-- Hyperledger Fabric
-- Edge AI
-- Device Drivers
-
----
-
-# 💼 Core Expertise
-
-- Firmware Architecture
-- RTOS
-- STM32
-- Embedded Linux
-- CAN / CAN FD
-- TCP/IP
-- Modbus
-- Industrial Automation
-- Device Drivers
-- Bootloaders
-- Secure Firmware
-- OTA Updates
-- Edge AI
-- IoT
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
